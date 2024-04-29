@@ -1,4 +1,4 @@
-# SageMaker_Terraform
+# SageMaker Studio Setup with Terraform
 A simple structure for creating a SageMaker Domain Using Terraform
 
 Resources that will be created include:
